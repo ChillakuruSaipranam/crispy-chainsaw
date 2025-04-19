@@ -2,7 +2,9 @@
 
 An interactive Streamlit dashboard analyzing economic opportunities across US ZIP codes using IRS, Census Bureau, and Business Statistics data.
 
-🔗 [View Project on GitHub](https://github.com/ChillakuruSaipranam/Business_zip-code-analysis-dashboard)
+Websitelink:https://biz-zip.onrender.com/
+
+🔗 [View Project on GitHub](https://github.com/ChillakuruSaipranam/crispy-chainsaw.git)
 
 ## Features
 - Interactive map visualization of AGI by state
@@ -15,8 +17,8 @@ An interactive Streamlit dashboard analyzing economic opportunities across US ZI
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChillakuruSaipranam/Business_zip-code-analysis-dashboard.git
-   cd Business_zip-code-analysis-dashboard
+   git clone https://github.com/ChillakuruSaipranam/crispy-chainsaw.git
+   cd crispy-chainsaw
    ```
 2. Install requirements:
    ```bash
@@ -39,4 +41,4 @@ An interactive Streamlit dashboard analyzing economic opportunities across US ZI
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sai-pranam-reddy-chillakuru/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ChillakuruSaipranam)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ChillakuruSaipranam/crispy-chainsaw.git)
