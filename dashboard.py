@@ -2,7 +2,7 @@
 import streamlit as st
 st.set_page_config(layout="wide", page_title="US ZIP Code Economic Dashboard")
 
-# 🔧 Imports
+# Imports
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -61,7 +61,7 @@ if section == "Home":
     ---
     """)
 
-    st.markdown("### 🔗 Connect with Me")
+    st.markdown("### Connect with Me")
 
     col1, col2 = st.columns(2)
     with col1:
