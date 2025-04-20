@@ -1,6 +1,6 @@
-# MUST BE FIRST Streamlit command
+
 import streamlit as st
-st.set_page_config(layout="wide", page_title="US ZIP Code Economic Dashboard")
+st.set_page_config(layout="wide", page_title=" Business analysis based on US ZIP Code ")
 
 # Imports
 import pandas as pd
@@ -30,7 +30,7 @@ st.title("Unlocking Business Success Through Strategic Location Analysis Dashboa
 st.markdown("Explore economic data at the ZIP code level across the United States.")
 
 # 🎛 Sidebar Navigation
-section = st.sidebar.radio("Navigate to Section", [
+section = st.sidebar.selectbox("Navigate to Section", [
     "Home",
     "Map View: AGI by State + ZIP Explorer",
     "Population Overview by State",
